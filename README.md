@@ -4,4 +4,4 @@
 
 ## first homework
 
-[github pages] (https://borison4ik.github.io/ahj-ci-cd/)
+[github pages](https://borison4ik.github.io/ahj-ci-cd/)
