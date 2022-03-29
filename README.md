@@ -3,3 +3,5 @@
 # ci/cd
 
 ## first homework
+
+[github pages] (https://borison4ik.github.io/ahj-ci-cd/)
